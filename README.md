@@ -1,1 +1,1 @@
-# JupyterNotebook
+assorted math problems
